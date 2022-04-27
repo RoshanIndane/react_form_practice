@@ -1,0 +1,52 @@
+{
+  "Details": [
+    {
+      "name": "Roshan Indane",
+      "roll": "11",
+      "course": "masai ",
+      "year": "second",
+      "status": "fail",
+      "id": 1
+    },
+    {
+      "name": "snehal ranjane",
+      "roll": "77",
+      "course": "MBA",
+      "year": "fourth",
+      "status": "pass",
+      "id": 2
+    },
+    {
+      "name": "manaoj",
+      "roll": "22",
+      "course": "masai ",
+      "year": "second",
+      "status": "pass",
+      "id": 3
+    },
+    {
+      "name": "Rosha",
+      "roll": "33",
+      "course": "masai ",
+      "year": "third",
+      "status": "fail",
+      "id": 4
+    },
+    {
+      "name": "snehrosh",
+      "roll": "71",
+      "course": "symbiii",
+      "year": "fourth",
+      "status": "pass",
+      "id": 5
+    },
+    {
+      "name": "Rushab anant Band",
+      "roll": "32",
+      "course": "RSCoe",
+      "year": "fourth",
+      "status": "pass",
+      "id": 6
+    }
+  ]
+}
